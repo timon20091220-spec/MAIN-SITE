@@ -1,0 +1,8 @@
+Space War / Neon Rift
+Version: V465 Tablet Fixed
+Base: v461 stable
+Created: 2026-06-02 12:28:21
+
+Fix:
+- Add SM-X Galaxy Tab detection.
+- Force tablet to PC/tablet mode.
