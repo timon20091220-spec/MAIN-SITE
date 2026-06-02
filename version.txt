@@ -1,8 +1,0 @@
-Space War / Neon Rift
-Version: v464 safe upload no black
-Base: v461 stable
-Created: 2026-06-02 12:17:46
-
-Fix:
-- Roll back dangerous v463 iframe/srcdoc patch.
-- Keep stable v461 gameplay/control layout.
