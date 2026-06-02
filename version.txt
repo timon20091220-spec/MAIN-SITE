@@ -1,0 +1,9 @@
+Space War / Neon Rift
+Version: V466 Light Tablet Fix
+Base: v461 stable
+Created: 2026-06-02 12:37:50
+
+Fix:
+- Remove aggressive V465 20ms interval and MutationObserver.
+- Keep SM-X tablet detection.
+- Avoid black screen and loading freeze.
